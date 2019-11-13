@@ -3,9 +3,13 @@
     {
       "id": 1,
       "title": "franco"
+    },
+    {
+      "id": 2,
+      "title": franco
     }
   ],
-  "profile": badRequest {
+  "profile": {
     "name": "typicode"
   }
 }
