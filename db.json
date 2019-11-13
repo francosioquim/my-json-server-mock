@@ -1,11 +1,11 @@
 {
   "posts": [
-    badRequest {
+    {
       "id": 1,
       "title": "franco"
     }
   ],
-  "profile": {
+  "profile": badRequest {
     "name": "typicode"
   }
 }
